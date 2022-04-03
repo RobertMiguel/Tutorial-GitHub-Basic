@@ -1,9 +1,7 @@
 
 # 【🗃️】**Summary of commands**
 
-<center>
-    <video src="./img/gittuto.mkv" witdh="320" height="306" controls>
-</center>
+[CLIQUE AQUI PARA CONTINUAR O TUTORIAL 🎥](https://www.youtube.com/watch?v=ZUfFxkU1aSg)
 
 ```bash
 #Boot and create a .git folder
@@ -33,9 +31,7 @@ $ git branch -m master main
 #To change the branch from main to master
 $ git branch -m main master
 ```
-<center>
-    <video src="./img/githubtuto.mkv" witdh="320" height="306" controls>
-</center>
+[CLIQUE AQUI PARA CONTINUAR O TUTORIAL 🎥](https://www.youtube.com/watch?v=Kk9ZuXGhHMs)
 
 ```bash
 #Paste the repository link into the url
@@ -216,9 +212,8 @@ $ git push
 * For this, you need to create a repository in **Github**, once already created, you will copy and paste the link from the repository
 
 </br>
-<center>
-<video controls src="./img/GitHubPush.mkv" width="520" ></video>
-</center>
+
+![CLIQUE AQUI PARA CONTINUAR O TUTORIAL 🎥](https://www.youtube.com/watch?v=rXXrTF93iCU)
 
 </br>
 
@@ -308,4 +303,3 @@ $ git push --set-upstream origin main
     <img src="./img/printtutorialgithub.png">
 </center>
 
->>>>>>> 97d4ae4 (TutorialGitHub)
